@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>mplab</name>
+            <name>projet-microcontroleur-CSI3</name>
             <creation-uuid>c5a4d126-404b-4c95-a01c-b7430c12c8e1</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions/>
